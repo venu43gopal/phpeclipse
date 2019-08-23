@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-08-23T00:51:30Z" name="Default suite" finished-at="2019-08-23T00:51:42Z" duration-ms="12516">
+    <groups>
+    </groups>
+    <test started-at="2019-08-23T00:51:30Z" name="Default test" finished-at="2019-08-23T00:51:42Z" duration-ms="12516">
+      <class name="TestNG.phptestNG">
+        <test-method is-config="true" signature="launch()[pri:0, instance:TestNG.phptestNG@4034c28c]" started-at="2019-08-23T00:51:30Z" name="launch" finished-at="2019-08-23T00:51:36Z" duration-ms="6458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="Test()[pri:0, instance:TestNG.phptestNG@4034c28c]" started-at="2019-08-23T00:51:36Z" name="Test" finished-at="2019-08-23T00:51:37Z" duration-ms="540" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:TestNG.phptestNG@4034c28c]" started-at="2019-08-23T00:51:37Z" name="afterClass" finished-at="2019-08-23T00:51:42Z" duration-ms="5468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- TestNG.phptestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
